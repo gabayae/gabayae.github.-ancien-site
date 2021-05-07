@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science des données et Intelligence Artificielle | Hi! I am Yaé</title>
+    <link>https://gabayae.github.io/tag/science-des-donnees-et-intelligence-artificielle/</link>
+      <atom:link href="https://gabayae.github.io/tag/science-des-donnees-et-intelligence-artificielle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science des données et Intelligence Artificielle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© April 2021 YUG</copyright><lastBuildDate>Fri, 07 May 2021 18:18:01 +0100</lastBuildDate>
+    <image>
+      <url>https://gabayae.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Science des données et Intelligence Artificielle</title>
+      <link>https://gabayae.github.io/tag/science-des-donnees-et-intelligence-artificielle/</link>
+    </image>
+    
+    <item>
+      <title>Intelligence Artificielle</title>
+      <link>https://gabayae.github.io/post/intelligence-artificielle/</link>
+      <pubDate>Fri, 07 May 2021 18:18:01 +0100</pubDate>
+      <guid>https://gabayae.github.io/post/intelligence-artificielle/</guid>
+      <description>&lt;h2 id=&#34;aperçu&#34;&gt;Aperçu&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;apprentissage automatique est l&amp;rsquo;une des technologies les plus discutées à l&amp;rsquo;heure actuelle. Il s&amp;rsquo;agit d&amp;rsquo;un concept qui permet aux machines d&amp;rsquo;apprendre à partir de différents exemples et expériences. En termes plus simples, il s&amp;rsquo;agit d&amp;rsquo;une science informatique qui utilise des techniques statistiques pour permettre aux systèmes informatiques d&#39;&amp;ldquo;apprendre&amp;rdquo;. Bien qu&amp;rsquo;elle soit utilisée dans de nombreuses industries pour améliorer les performances des entreprises, elle a également d&amp;rsquo;excellentes applications dans le secteur de l&amp;rsquo;éducation.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;apprentissage automatique peut aider les étudiants à améliorer leur apprentissage en analysant leurs résultats scolaires et en leur suggérant la meilleure façon d&amp;rsquo;apprendre. En fait, l&amp;rsquo;apprentissage automatique a beaucoup plus à offrir au secteur de l&amp;rsquo;éducation et, ces dernières années, nous avons vu comment il peut potentiellement transformer l&amp;rsquo;ensemble du système éducatif.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2021-present &lt;a href=&#34;https://github.com/gabayae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yaé U. Gaba&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

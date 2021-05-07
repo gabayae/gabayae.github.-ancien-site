@@ -11,6 +11,24 @@
     <loc>https://gabayae.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gabayae.github.io/category/article/</loc>
+    <lastmod>2021-05-07T18:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://gabayae.github.io/categories/</loc>
+    <lastmod>2021-05-07T18:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://gabayae.github.io/post/intelligence-artificielle/</loc>
+    <lastmod>2021-05-07T18:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://gabayae.github.io/post/</loc>
+    <lastmod>2021-05-07T18:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://gabayae.github.io/tag/science-des-donnees-et-intelligence-artificielle/</loc>
+    <lastmod>2021-05-07T18:18:01+01:00</lastmod>
+  </url><url>
+    <loc>https://gabayae.github.io/tags/</loc>
+    <lastmod>2021-05-07T18:18:01+01:00</lastmod>
+  </url><url>
     <loc>https://gabayae.github.io/publication-type/2/</loc>
     <lastmod>2021-05-06T17:57:15+01:00</lastmod>
   </url><url>
@@ -28,30 +46,6 @@
   </url><url>
     <loc>https://gabayae.github.io/publication/hammad-2021-solving/</loc>
     <lastmod>2021-05-06T17:33:55+01:00</lastmod>
-  </url><url>
-    <loc>https://gabayae.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabayae.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabayae.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabayae.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabayae.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabayae.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabayae.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabayae.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabayae.github.io/publication/gaba-2020-new/</loc>
     <lastmod>2021-05-06T17:33:55+01:00</lastmod>
@@ -102,5 +96,11 @@
     <lastmod>2021-05-06T17:33:54+01:00</lastmod>
   </url><url>
     <loc>https://gabayae.github.io/admin/</loc>
+  </url><url>
+    <loc>https://gabayae.github.io/post/getting-started/</loc>
+  </url><url>
+    <loc>https://gabayae.github.io/tag/data-science/</loc>
+  </url><url>
+    <loc>https://gabayae.github.io/category/report/</loc>
   </url>
 </urlset>

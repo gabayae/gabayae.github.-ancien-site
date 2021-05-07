@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report | Hi! I am Yaé</title>
+    <link>https://gabayae.github.io/category/report/</link>
+      <atom:link href="https://gabayae.github.io/category/report/index.xml" rel="self" type="application/rss+xml" />
+    <description>Report</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© April 2021 YUG</copyright>
+    <image>
+      <url>https://gabayae.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Report</title>
+      <link>https://gabayae.github.io/category/report/</link>
+    </image>
+    
+    <item>
+      <title>A publication by a colleague. Evans Doe Ocansey.</title>
+      <link>https://gabayae.github.io/post/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gabayae.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://eocansey.medium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Read the blog here&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2021-present &lt;a href=&#34;https://github.com/evansdoe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evans Doe Ocansey&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
